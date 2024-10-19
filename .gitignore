@@ -41,3 +41,6 @@ package.json
 postcss.config.css
 tailwind.config.ts
 tsconfig.json
+.firebaserc
+firebase.json
+.firebase/
